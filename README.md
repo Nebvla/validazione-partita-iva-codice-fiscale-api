@@ -31,3 +31,5 @@ try {
 } catch (error) {
 	console.error("Errore durante la validazione:", error);
 }
+```
+## Perchè usare questa API?
