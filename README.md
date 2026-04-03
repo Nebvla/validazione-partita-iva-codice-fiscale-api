@@ -13,7 +13,7 @@ Dover implementare, testare e mantenere questa logica matematica in PHP, JavaScr
 
 Per questo ho creato un'**API REST gratuita e velocissima** che fa il calcolo per te in millisecondi.
 
-👉 **[Usa l'API gratuitamente su RapidAPI](https://rapidapi.com/Nebvla/api/italian-fiscal-code-vat-validator)**
+👉 **[Usa l'API gratuitamente su RapidAPI]([https://rapidapi.com/Nebvla/api/italian-fiscal-code-vat-validator])**
 
 ### Come si usa (Esempio in JavaScript/Fetch)
 ```javascript
