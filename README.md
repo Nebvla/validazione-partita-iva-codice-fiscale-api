@@ -34,8 +34,8 @@ try {
 ```
 ## Perchè usare questa API?
 - **Velocità**: Risposte ottimizzate in millisecondi (Server in Europa).
-- Affidabilità: Implementazione rigorosa degli algoritmi ufficiali dell'Agenzia delle Entrate.
-- Modello Freemium: Piano gratuito per test e piccoli volumi, scalabile per e-commerce ad alto traffico.
-- Nessuna dipendenza: Funziona con qualsiasi linguaggio (Python, PHP, JS, Ruby, ecc.) senza installare librerie pesanti.
+- **Affidabilità**: Implementazione rigorosa degli algoritmi ufficiali dell'Agenzia delle Entrate.
+- **Modello Freemium**: Piano gratuito per test e piccoli volumi, scalabile per e-commerce ad alto traffico.
+- **Nessuna dipendenza**: Funziona con qualsiasi linguaggio (Python, PHP, JS, Ruby, ecc.) senza installare librerie pesanti.
 
 Ideale per checkout Shopify, WooCommerce, Magento e form di registrazione aziendali.
